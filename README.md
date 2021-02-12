@@ -1,7 +1,7 @@
 ## Login
 - Via Cookie
 
-<img src="https://github.com/ROMI-AFRZL/https://github.com/ROMI-AFRZL/vibotkom/blob/main/vibot.png" width="640" title="Menu" alt="Menu"> 
+<img src="https://github.com/ROMI-AFRZL/vibotkom/blob/main/vibot.png" width="640" title="Menu" alt="Menu"> 
 
 ## Install
 ````
